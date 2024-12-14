@@ -1,8 +1,35 @@
-*.gem
-.bundle
-.sass-cache
-.jekyll-cache
-_site
-Gemfile.lock
-unused
-bootstrap-reference.html
+# Jekyll 生成的文件
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# 依赖目录
+node_modules/
+vendor/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*~
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE 和编辑器文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 个人配置文件（如果有的话）
+_config.personal.yml
+
+# 其他可能需要忽略的文件
+*.bak
+*.backup

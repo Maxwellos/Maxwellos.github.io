@@ -1,22 +1,24 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
-  
-#what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: 电商巨头提升应用质量
+subtitle: 使用云真机测试平台大幅提高测试效率
+alt: 电商应用在多个设备上展示
 
+caption:
+  title: 游戏应用测试
+  subtitle: 移动应用测试
+  thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+某知名电商平台面临着在多种设备和操作系统版本上确保应用稳定性和性能的挑战。通过使用我们的云真机测试平台，他们成功地：
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- **提高测试覆盖率**：利用平台提供的多种真实设备，覆盖了90%以上的目标用户设备。
+- **加快测试速度**：将回归测试时间从原来的3天缩短到1天。
+- **提升测试效率**：通过自动化测试脚本，减少了60%的人工测试时间。
+- **优化用户体验**：及时发现并修复了多个设备特定的UI问题，提升了用户满意度。
 
+客户反馈："云真机测试平台帮助我们在保证质量的同时，显著缩短了应用的发布周期。我们现在能够更快地响应市场需求，为用户提供更好的购物体验。"
+
+{:.list-inline}
+- 日期: 2023年1月
+- 客户: 某知名电商平台
+- 类别: 移动应用测试
