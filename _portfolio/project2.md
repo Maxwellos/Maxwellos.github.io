@@ -1,19 +1,24 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: 金融科技公司保障应用安全
+subtitle: 利用云真机测试平台确保移动银行应用的安全性和可靠性
+alt: 移动银行应用界面展示
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: 金融应用测试
+  subtitle: 安全性与性能测试
+  thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+某领先的金融科技公司在开发其移动银行应用时，面临着严格的安全要求和多样化的用户设备环境。通过采用我们的云真机测试平台，他们成功地：
+
+- **增强安全性测试**：在多种真实设备上进行全面的安全漏洞扫描，发现并修复了几个潜在的安全隐患。
+- **提高兼容性**：在超过100种不同的设备和操作系统组合上验证了应用的功能，确保了广泛的兼容性。
+- **优化性能**：通过在不同网络条件下的真机测试，优化了应用在弱网环境下的性能，提升了用户体验。
+- **加速发布周期**：将整体测试时间缩短了40%，加快了新功能的发布速度。
+
+客户评价："云真机测试平台不仅帮助我们提高了应用的质量和安全性，还大大加快了我们的开发节奏。我们现在能够更有信心地向客户推出新功能，知道它们已经在各种真实环境中经过了严格测试。"
 
 {:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- 日期: 2023年3月
+- 客户: 某领先金融科技公司
+- 类别: 移动应用安全性与性能测试
